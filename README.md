@@ -84,7 +84,9 @@ women-audiovisual-france/
 ## 8. Contributors
 
 * Nour Rekik
-* [Add other team members]
+* Thomas mabed
+* Loriana Tricoire
+* Yohan Apedo
 
 ---
 
